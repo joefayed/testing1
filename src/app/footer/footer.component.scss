@@ -1,0 +1,42 @@
+.container {
+  background-color: #26272b;
+  color: #737373;
+  padding: 2%;
+}
+.quickLinks a {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+.quickLinks a:hover {
+  color: #3366cc;
+}
+.mat-divider {
+  border-top-color: #737373;
+}
+//Social Media Colors
+.btn-facebook:hover {
+  color: #fff !important;
+  background-color: #3b5998 !important;
+}
+.btn-youtube:hover {
+  color: #fff !important;
+  background-color: #ff4b39 !important;
+}
+.btn-linkedin:hover {
+  color: #fff !important;
+  background-color: #007bb6 !important;
+}
+.btn-twitter:hover {
+  color: #fff !important;
+  background-color: #55acee !important;
+}
+.btn-mail:hover {
+  color: #fff !important;
+  background-color: #512da8 !important;
+}
+.btn-github:hover {
+  color: #fff !important;
+  background-color: #333 !important;
+}
